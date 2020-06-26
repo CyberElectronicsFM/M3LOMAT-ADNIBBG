@@ -1,0 +1,1 @@
+sudo python breacher.py -u https://google.com --fast
